@@ -38,8 +38,3 @@ Build a RESTful API for a blogging platform that supports user management, blog 
 - **Testing Framework**: Jest or Mocha (optional)
 - **Documentation**: Swagger or Postman (for API documentation)
 
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
